@@ -1,8 +1,8 @@
 #virtual environment
-/.venv
+.venv/
 
-#mnist data
-/raw
+#training/testing data
+data/
 
-#gifs
-.gif
+#outputs
+*.gif
