@@ -1,2 +1,8 @@
 #virtual environment
 /.venv
+
+#mnist data
+/raw
+
+#gifs
+.gif
